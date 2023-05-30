@@ -246,5 +246,4 @@ LEFT JOIN home_animals ha ON ha.Id = hm.Genus_id;
 
 ![Program](https://user-images.githubusercontent.com/99810114/221417421-93de1f4c-ad41-4f7e-a45d-edd5ec72f1d3.jpg)
 
-     
-![image](https://user-images.githubusercontent.com/99810114/222143283-7ec9e203-2a23-4cf4-81b8-b97a159cdc79.png)
+    
